@@ -11,10 +11,6 @@ Choccy is a Lisp language and interpreter I am writing in C with the help
 of Daniel Holden's guide at www.buildyourownlisp.com. Once I am done with
 the guide, I will continue to add new features to the language.
 
-Prior to reading the guide, I had not written anything in C, though I have
-extensive C++ experience. The guide has helped me make a smooth transition
-to C from C++. 
-
 Here you can see my progress through Holden's guide, which can be interpreted
 as a sort of short-term to do list:
 
