@@ -101,6 +101,6 @@ Here is a brief overview of the files and folders included in the project.
     Contains the license for Choccy and its interpreter. Choccy uses the
     MIT license.
 
-  README
+  README.md
 
-    Contains general information on Choccy.
+    Contains general information on Choccy. You're reading this!
