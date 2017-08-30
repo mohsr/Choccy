@@ -58,7 +58,7 @@ fantastically written, and, though I am not a beginner to programming, I feel
 that a beginner would be comfortable (though sometimes challenged) using it.
 
 Holden also provides a library he created called MPC to use alongside the
-guide, making parsing input and representing the language much easier. The
+guide, making parsing input and representing the language much simpler. The
 MPC library is located in the lib/mpc directory and is provided under the
 BSD two-clause license (see lib/mpc/LICENSE.md).
 
