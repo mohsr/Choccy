@@ -1,7 +1,7 @@
 /* 
  * choccyparsing.c
- * A Lisp interpreter written by me in C, using the help of
- * www.buildyourownlisp.com.
+ * A Lisp language (called Choccy) and interpreter written by me in C,
+ * using the help of www.buildyourownlisp.com.
  *
  * Written by:  Mohsin Rizvi
  * Last edited: 08/29/17
