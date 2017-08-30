@@ -96,11 +96,11 @@ Here is a brief overview of the files and folders included in the project.
         Header file for the MPC library, including function declarations and
         data structure definitions.
 
-    LICENSE
+  LICENSE
 
-      Contains the license for Choccy and its interpreter. Choccy uses the
-      MIT license.
+    Contains the license for Choccy and its interpreter. Choccy uses the
+    MIT license.
 
-    README
+  README
 
-      Contains general information on Choccy.
+    Contains general information on Choccy.
