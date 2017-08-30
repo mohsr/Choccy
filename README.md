@@ -8,43 +8,8 @@ Last edited: 08/29/17
 ## A. Overview
 
 Choccy is a Lisp language and interpreter I am writing in C with the help
-of Daniel Holden's guide at www.buildyourownlisp.com. Once I am done with
-the guide, I will continue to add new features to the language.
-
-Here you can see my progress through Holden's guide, which can be interpreted
-as a sort of short-term to do list:
-
-[X] Chapter 1:  Introduction
-
-[X] Chapter 2:  Installation
-
-[X] Chapter 3:  Basics
-
-[X] Chapter 4:  An Interactive Prompt
-
-[X] Chapter 5:  Languages
-
-[X] Chapter 6:  Parsing
-
-[X] Chapter 7:  Evaluation
-
-[X] Chapter 8:  Error Handling
-
-[ ] Chapter 9:  S-Expressions
-
-[ ] Chapter 10: Q-Expressions
-
-[ ] Chapter 11: Variables
-
-[ ] Chapter 12: Functions
-
-[ ] Chapter 13: Conditionals
-
-[ ] Chapter 14: Strings
-
-[ ] Chapter 15: Standard Library
-
-[ ] Chapter 16: Bonus Projects
+of Daniel Holden's guide at www.buildyourownlisp.com. Once I finish the
+guide, I will continue to add new features to the language.
 
 ## B. Acknowledgments
 
