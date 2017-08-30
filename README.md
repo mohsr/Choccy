@@ -1,4 +1,4 @@
-# Choccy
+# Choccy: A Lisp language and interpreter written in C
 Written by: Mohsin Rizvi
 
 Last edited: 08/29/17
